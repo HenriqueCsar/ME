@@ -1,0 +1,16 @@
+h1{
+    color:yellow;
+    animation-name: mudarcor;
+    animation-duration: inherit;
+    animation-delay: 0s;
+}
+
+@keyframes mudarcor{
+    from{
+        color:#ce5454;
+    }
+    to{
+        color:blue;
+    }
+}
+
